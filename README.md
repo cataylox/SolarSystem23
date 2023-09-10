@@ -12,8 +12,9 @@ http://pinballrefresh.com
 
 
 ## Example WAV Trigger Files
-https://drive.google.com/file/d/1FlPcCNtWVUEnNESh3lf867T1IfVJk6ec/view?usp=sharing
-Adjustment prompts (add these files to the WAV trigger SD card updated Mar 2, 2022) https://drive.google.com/file/d/1DaYjVuPgqq50uSR9Gg-7i6G6g4yI3FwP/view?usp=sharing
+https://drive.google.com/file/d/1FlPcCNtWVUEnNESh3lf867T1IfVJk6ec/view?usp=sharing   
+Adjustment prompts (add these files to the WAV trigger SD card updated Mar 2, 2022)   
+https://drive.google.com/file/d/1DaYjVuPgqq50uSR9Gg-7i6G6g4yI3FwP/view?usp=sharing  
 
   
 ## Test / Audit / Settings from coin-door switch  
