@@ -35,7 +35,7 @@
  *   features are all controlled through the 
  *   RPU_Config.h file. 
  */
-#include "RPU_Config.h"
+#include "RPU_config.h"
 
 
 /******************************************************
